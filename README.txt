@@ -1,6 +1,3 @@
-Here's the brief version — copy and paste directly:
-
----
 
 # 🛒 Walmart Sales Analysis
 
