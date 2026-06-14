@@ -1,32 +1,29 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Here's the brief version — copy and paste directly:
+
+---
+
+# 🛒 Walmart Sales Analysis
+
+## 📌 Project Overview
+Analysis of Walmart sales transactions across three branches using **MySQL** to uncover trends in product performance, customer behavior, and revenue patterns.
 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+---
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 🛠️ Tool Used
+- MySQL — Database setup, feature engineering & business queries
 
-(* = not included)
+---
 
-AJ
-aj@lkn.io | @ajlkn
+## 💡 Key Findings
+- 🌙 **Evenings record the highest sales volume** across all weekdays and branches
+- ⭐ **Monday, Tuesday, and Friday** consistently receive the best average customer ratings
+- 🏙️ Revenue varies significantly across branches — with clear top and bottom performers identified
+- 👥 **Member customers** purchase more frequently than Normal customers
+- 💳 **Cash and e-wallet** are the most preferred payment methods among customers
+- 📦 Certain product lines consistently perform **above average sales** while others fall below
+- 🧾 **VAT contribution differs across cities** — one city carries a significantly higher tax burden than others
+- 📅 **Monthly revenue and COGS fluctuate** — highlighting specific peak and low-performing months
 
+---
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
