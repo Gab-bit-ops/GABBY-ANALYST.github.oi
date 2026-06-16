@@ -1,9 +1,7 @@
-
 # 🛒 Walmart Sales Analysis
 
 ## 📌 Project Overview
 Analysis of Walmart sales transactions across three branches using **MySQL** to uncover trends in product performance, customer behavior, and revenue patterns.
-
 
 ---
 
